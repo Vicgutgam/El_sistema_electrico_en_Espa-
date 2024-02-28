@@ -6,7 +6,6 @@
 </p>
 
 
-
 <h2 style="color:#e39714"> 💡 Index 💡</h2> </center>
 
 <ol>
@@ -19,17 +18,15 @@
        <li>Solar Energy: solar thermal and photovoltaic.</li>
         <li>Wind Energy: marine, terrestrial, hydrowind</li>
        <li>Others</li>
-       <li>Conclusions and comparison with other years.</li>
-     </ol>
+          </ol>
    <li>Non-renewable energies.</li>
      <ol>
-       <li>Thermoelectric: conventional cycle and agreed cycle.</li>
+       <li>Thermoelectric: combined cycle power plant.</li>
        <li>Nuclear</li>
        <li>Wind Energy: marine, terrestrial, hydrowind</li>
        <li>Conclusions and comparison with other years.</li>
      </ol>
-    
-   <li>Energy distribution in Spain.</li>
+
    <li>Energy consumption in Spain:</li>
    <ol>
        <li>Analysis by purpose.</li>
@@ -78,6 +75,41 @@ Even as, finally, renewable energy sources are gaining ground over other energy 
 
 ![image](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-/blob/main/Im%C3%A1genes/renovables%20vs%20no%20renovables.png) </p>
 
+
+
+<h2 style="color:#e39714"> 🔌Energy consumption in Spain 🔌 </h2> </center>
+
+![image](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-/blob/main/Im%C3%A1genes/comparaci%C3%B3n%20de%20consumo.png) </p>
+
+<h2 style="color:#e39714"> 🌍Objectives of the National Energy and Climate Plan 2023-2030 🌍 </h2> </center>
+
+At this point I would like to review how the Objectives of the National Energy and Climate Plan 2023-2030 are and the possibility of meeting them from an energy perspective.
+
+The Ministry for the Energy Transition and the Demographic Challenge has published a proposal to review the National Integrated Energy and Climate Plan (PNIEC) to 2030. The final Plan must be submitted to the European Commission by June 2024 at the latest.
+
+This plan includes numerous objectives but we are going to focus on two:
+<ul>
+   <li> Reduce greenhouse gas emissions by 32% in 2030 compared to 1990. Which meant going from 287,710 million tons to 201,397. The 2020 plan proposed a 23% reduction</li>
+   <li> Reduce energy dependence to 51% in 2030 (in 2019 energy dependence was 73%)</li>
+</ul>
+<h3 style="color:#e39714">Reduce greenhouse gas emissions by 32% in 2030 compared to 1990) </h3> </center>
+
+![image](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-/blob/main/Im%C3%A1genes/evoluci%C3%B3n%20de%20emisiones.png) </p>
+
+The <em><strong>four main sources are</strong></em>: four main sources are the manufacturing industry, households, the energy sector, water and waste, and the transportation sector.
+
+Traditionally, it has been seen that to achieve compensation for CO2 emissions in these sectors we will have to carry out transversal policies that more quickly favor the increase in the production of clean energy, the adaptation of the industry so that it can receive this type of energy (there are certain industries whose production sometimes cannot be produced without gas or derivatives).
+
+The [complete transition](https://www.ree.es/es/datos/generacion/no-renovables-detalle-emisiones-CO2) would mean an approximate saving of more than 32 million tons of CO2. There remains more than 50 million tons to compensate in other sectors, although the increase in transport with electric vehicles could be crucial to achieving this transition.
+
+The renewal of the vehicle fleet is an important tool to achieve the objectives of reducing emissions and improving air quality. Currently, a new vehicle has reduced NOx and 99% particle emissions compared to a vehicle that is more than 15 years old. Likewise, technological development and the incorporation of driving assistance systems is an important factor in increasing road safety with increasingly safer, more efficient and comfortable vehicles.
+
+In the European Union, electric vehicles went from one in every 100 registrations in 2018 to almost one in seven in 2022
+
+<h3 style="color:#e39714"> Reduce energy dependence to 51% in 2030 (in 2019 energy dependence was 73%) </h3> </center>
+
+![image](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-/blob/main/Im%C3%A1genes/importaci%C3%B3n%20electricidad.png)
+![image](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-/blob/main/Im%C3%A1genes/Exportaci%C3%B3n%20Electrcidad.png)
 
 
 <h2 style="color:#e39714"> 🎓 Bibliografía 🎓 </h2> </center>
