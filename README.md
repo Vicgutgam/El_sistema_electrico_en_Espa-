@@ -77,6 +77,20 @@ Even as, finally, renewable energy sources are gaining ground over other energy 
 ![image](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-/blob/main/Im%C3%A1genes/renovables%20vs%20no%20renovables.png) </p>
 
 <h2 style="color:#e39714"> 🌳Renewable energies 🌳 </h2> </center>
+
+I will not carry out an analysis of each of the renewable energy sources but rather a superficial presentation of the two most important: solar and wind energy.
+
+<h3 style="color:#e39714"> ☀️Solar energy ☀️ </h3> </center>
+This graph breaks the stereotype that Western countries are the ones that are most committed to renewable energies such as solar.
+
+![image](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-/blob/main/Im%C3%A1genes/Energ%C3%ADa%20solar%20producida.png) </p>
+
+<h3 style="color:#e39714"> 🌪️Wind power 🌪️ </h3> </center>
+In these production statistics we see how production has grown and at the same time how some countries have fallen behind, being overtaken by others that in principle could have less purchasing power.
+
+![image](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-/blob/main/Im%C3%A1genes/e%C3%B3lica%202022.png) </p>
+![image](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-/blob/main/Im%C3%A1genes/e%C3%B3lica%202026.png) </p>
+
 <h2 style="color:#e39714"> 🔥Non-renewable energies 🔥 </h2> </center>
 In this section we will only analyze some data presented by some of the energies that are within this sector, such as nuclear energy and cogeneration energy.
 
