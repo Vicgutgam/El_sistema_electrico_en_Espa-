@@ -14,10 +14,8 @@
    <li>Energy production in Spain in 2023.</li>
    <li>Renewable energies.</li>
      <ol>
-       <li>Hydraulic Power.</li>
-       <li>Solar Energy: solar thermal and photovoltaic.</li>
+        <li>Solar Energy: solar thermal and photovoltaic.</li>
         <li>Wind Energy: marine, terrestrial, hydrowind</li>
-       <li>Others</li>
           </ol>
    <li>Non-renewable energies.</li>
      <ol>
