@@ -21,11 +21,10 @@
           </ol>
    <li>Non-renewable energies.</li>
      <ol>
-       <li>Thermoelectric: combined cycle power plant.</li>
+       <li>Cogeneration.</li>
        <li>Nuclear</li>
-       <li>Wind Energy: marine, terrestrial, hydrowind</li>
-       <li>Conclusions and comparison with other years.</li>
-     </ol>
+       <li>Consumption forecasts</li>
+           </ol>
 
    <li>Energy consumption in Spain:</li>
    <ol>
@@ -77,7 +76,23 @@ Even as, finally, renewable energy sources are gaining ground over other energy 
 
 ![image](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-/blob/main/Im%C3%A1genes/renovables%20vs%20no%20renovables.png) </p>
 
+<h2 style="color:#e39714"> 🌳Renewable energies 🌳 </h2> </center>
+<h2 style="color:#e39714"> 🔥Non-renewable energies 🔥 </h2> </center>
+In this section we will only analyze some data presented by some of the energies that are within this sector, such as nuclear energy and cogeneration energy.
 
+<h3 style="color:#e39714"> ☢️Nuclear ☢️ </h3> </center>
+
+![image](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-/blob/main/Im%C3%A1genes/centrales%20nucleares.png) </p>
+
+In this graph we can clearly see the current situation of the nuclear plants in Spain and the journey they have taken since they were implemented in 1983.
+
+A dramatic situation for one of the most efficient, safe and "ecological" energy sources ever.
+
+<h3 style="color:#e39714"> ⚒️Cogeneration ⚒️ </h3> </center>
+Cogeneration is one of the most unknown sources of energy and perhaps one of the most important since its purpose is to supply factories.
+A challenge for the future is to find a way to adapt new energy sources to these circumstances and thus eliminate this energy or at least reduce it to a residual source.
+
+![image](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-/blob/main/Im%C3%A1genes/Fin%20de%20la%20electricicdad%20de%20cogeneraci%C3%B3n.png) </p>
 
 <h2 style="color:#e39714"> 🔌Energy consumption in Spain 🔌 </h2> </center>
 
