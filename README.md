@@ -94,6 +94,9 @@ A challenge for the future is to find a way to adapt new energy sources to these
 
 ![image](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-/blob/main/Im%C3%A1genes/Fin%20de%20la%20electricicdad%20de%20cogeneraci%C3%B3n.png) </p>
 
+<h3 style="color:#e39714">📊Consumption forecasts 📊</h3> </center>
+ 
+
 <h2 style="color:#e39714"> 🔌Energy consumption in Spain 🔌 </h2> </center>
 
 ![image](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-/blob/main/Im%C3%A1genes/comparaci%C3%B3n%20de%20consumo.png) </p>
